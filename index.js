@@ -1,2 +1,1 @@
-parseInt('2.22222',10)
-  return parseInt
+parseInt('2.2222', 10); 
