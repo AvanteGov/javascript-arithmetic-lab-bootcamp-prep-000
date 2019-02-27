@@ -25,8 +25,8 @@ function dec(a){
 function makeInt(n){
   return parseInt(n);
 }
-makeint(0x2328);
-makeInt('sldkjflksjf');
+
+
 
 function preserveDecimal(n){
   return parseFloat('2.222');
