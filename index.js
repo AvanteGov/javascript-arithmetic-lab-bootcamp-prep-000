@@ -24,10 +24,11 @@ function dec(a){
 
 function makeInt(n){
   return parseInt(n);
-function makeInt(base10){
+function makeInt(n){
   return parseInt(0x2328, 10);
-} function makeInt(n){
-  return parseInt('sldkjflksjf');
+ function makeInt(n){
+  return parseInt('sldkjflksjf', 10);
+}
 }
 }
 
