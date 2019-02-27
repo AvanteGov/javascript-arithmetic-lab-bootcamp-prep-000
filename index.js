@@ -26,6 +26,8 @@ function makeInt(n){
   return parseInt(n);
 }
 
+function makeint(n)
+n = 0x2328
 
 
 function preserveDecimal(n){
