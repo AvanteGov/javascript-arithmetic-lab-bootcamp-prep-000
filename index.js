@@ -30,3 +30,7 @@ function makeInt(assumeBase10){
   return makeInt('sldkjflksjf');
 }
 }
+
+function preserveDecimal(n){
+  return parseFloat('2.222')
+}
