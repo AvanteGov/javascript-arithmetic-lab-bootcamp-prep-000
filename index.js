@@ -24,6 +24,8 @@ function dec(a){
 
 function makeInt(n){
   return parseInt(n);
-
-  
 } 
+
+function makeInt(assumeBase10){
+  return makeInt(0x2328);
+}
