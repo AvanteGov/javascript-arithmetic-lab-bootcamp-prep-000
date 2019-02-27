@@ -24,8 +24,8 @@ function dec(a){
 
 function makeInt(n){
   return parseInt(n);
-  return parseInt(0x2328);
-  return parseInt('sldkjflksjf');
+  parseInt(0x2328);
+  parseInt('sldkjflksjf');
 }
 
 function preserveDecimal(n){
