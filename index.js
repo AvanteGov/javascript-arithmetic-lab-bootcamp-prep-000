@@ -23,8 +23,10 @@ function dec(a){
 }
 
 function makeInt(n, ){
-  return parseInt(n);
+  return parseInt(n);{
+  parseInt('string', replaceHereWithInt);
 } 
+
 
 function preserveDecimal(n){
   return parseFloat(n);
