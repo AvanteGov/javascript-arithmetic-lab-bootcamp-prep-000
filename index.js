@@ -30,5 +30,3 @@ function preserveDecimal(n){
   return parseFloat('2.222');
   return parseFloat('sldkjflksjf');
 }
-
-reassessing tomorrow: you need to figure out the error with the assumed
