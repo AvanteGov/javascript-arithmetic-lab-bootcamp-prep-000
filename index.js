@@ -32,7 +32,5 @@ function makeInt(assumeBase10){
 }
 
 function preserveDecimal(n){
-  return parseFloat('2.222')
-}function parseFloat(isNAN){
-  return preserveDecimal('sldkjflksjf');
+  return parseFloat('2.222');
 }
