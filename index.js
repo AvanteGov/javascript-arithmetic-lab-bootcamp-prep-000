@@ -24,7 +24,7 @@ function dec(a){
 
 function makeInt(n){
   return parseInt(n);
-function makeInt(n){
+function makeInt(base10){
   return parseInt(0x2328);
 } function makeInt(n){
   return parseInt('sldkjflksjf');
