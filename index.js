@@ -27,6 +27,6 @@ function makeInt(n){
 function makeInt(assumeBase10){
   return makeInt(0x2328);
 } function makeInt(isNAN){
-  return makeInt()
+  return makeInt('sldkjflksjf');
 }
 }
