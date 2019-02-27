@@ -25,8 +25,8 @@ function dec(a){
 function makeInt(n){
   return parseInt(n);
 function makeInt(assumeBase10){
-  return makeInt(0x2328);
-} function makeInt(isNAN){
+  return parseInt(0x2328);
+} function parseInt(isNAN){
   return makeInt('sldkjflksjf');
 }
 }
